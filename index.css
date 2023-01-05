@@ -1,0 +1,48 @@
+
+
+#banner{
+    width: 90%;
+    
+}
+
+.principal {
+    background-color: rgb(234, 221, 221);
+    padding: 30px;
+}
+
+p, h1,h2 {
+    text-align: center;
+
+}
+
+.title-center{
+    text-align: center;
+    height: 30px;
+    border: 10px solid  rgb(159, 99, 99);
+    
+}
+
+#missao {
+    font-size: 20px;
+
+}
+
+.itens {
+    font-style: italic;
+}
+
+.bene{
+    background: #ffff;
+    padding: 20px;
+}
+
+ul  {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgbene{
+    width: 50%;
+}
